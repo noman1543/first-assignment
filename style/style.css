@@ -159,3 +159,33 @@
     text-align: center;
     margin-top: 50px;
 }
+
+/*poster section*/
+.poster-info {
+    text-align: center;
+    align-items: center;
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+
+
+}
+
+.poster-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 100px;
+
+
+}
+
+.poster-description {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
