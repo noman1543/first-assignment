@@ -1,0 +1,55 @@
+* shared style*/ .body {
+    font-family: Lato;
+}
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #db8296.10%;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0px;
+    padding: 15px 35px;
+    color: #ffffff;
+}
+
+/* header style*/
+
+.header {
+    background-color: #daadb7;
+}
+
+/*banner style*/
+.banner {
+    display: flex;
+    padding: 50px 10px 0px 150px;
+    align-items: center;
+
+}
+
+
+.banner .coverpic {
+    width: 500px;
+}
+
+.banner-greeting {
+    color: #272727;
+
+    font-size: 50px;
+
+    font-weight: 600;
+
+}
+
+.banner-greeting.span {
+    color: #db8296;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 32px;
+}
