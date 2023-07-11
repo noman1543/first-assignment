@@ -121,3 +121,41 @@
     background-repeat: no-repeat;
 
 }
+
+/*offer section style*/
+.offer {
+    border-radius: 8px;
+    background: #E554730D;
+    align-items: center;
+    display: flex;
+    width: 1922px;
+    height: 620px;
+    padding-left: 250px;
+    padding-right: 100px;
+
+}
+
+
+.offer-title {
+    color: #272727;
+    font-family: Lato;
+    font-weight: 800;
+    text-align: center;
+}
+
+.offer-description {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.offer-image {
+    background-image: url('../Flower Asset/pngwing 8.png');
+    background-repeat: no-repeat;
+}
+
+.sign-up {
+    text-align: center;
+    margin-top: 50px;
+}
